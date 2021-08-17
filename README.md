@@ -1,6 +1,6 @@
 # Introductory Programming Using Python (19 and 20 Aug 2021)
 
-Course materials are contained in this repository
+Course materials are contained in this repository 
 
 ## Other Learning Resources:
 Video: https://www.udemy.com/course/100-days-of-code/
